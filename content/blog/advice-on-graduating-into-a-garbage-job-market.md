@@ -1,13 +1,11 @@
 ---
 template: blog-post
-title: Advice On Graduating Into A Garbage Job Market
+title: Тугтан Гранд ХХК
 publishedDate: 2020-08-13T12:00:28.345Z
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl vel pretium
-  lectus quam. Enim neque volutpat ac tincidunt vitae semper quis lectus. At
-  erat pellentesque adipiscing commodo elit at.
+description: Барилгын гадна, дотор цахилгаан хангамж, нам хүчдлийн тоноглол,  
+холбоо дохиолол, утаа зайлуулах системийн автоматжуулалтын угсралт
 featured: true
-img: ../../static/images/tables.jpeg
+img: https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/videoblocks-technology-network-background_bp3k3q70x_thumbnail-1080_01.png
 imgAlt: Get a table?
 tags:
   - opinion
